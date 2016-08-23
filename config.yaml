@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://keremgocen.github.io/"
+title: "Ctrl-Space"
+canonifyurls: true
+theme: "Lanyon"
+...
