@@ -1,0 +1,35 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Ctrl-Space"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+disqusShortname = "keremgocen"
+theme = "hugo-minimalist-theme"
+
+[params]
+    site_author = "Kerem Gocen"
+    site_description = "Personal stuff"
+    location = "Istanbul"
+    # All paths are relative to the baseurl. Put your files
+    # somewhere in the static folder.
+    avatar = "img/profile_pic.jpg"
+    header_background = ""
+    header_title = "Ctrl-Space"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
+
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = "UA-76182643-2"
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "kerem_gocen"
+    facebook  = ""
+    linkedin  = ""
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "keremgocen"
+    gplus     = ""
